@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Puzzle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 700525599
+    locked: 0
+  - name: Square
+    uniqueID: 1283542595
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 3078187471
+    locked: 0
+  - name: Door
+    uniqueID: 3920731453
+    locked: 0
+  - name: Player
+    uniqueID: 2465326413
+    locked: 0

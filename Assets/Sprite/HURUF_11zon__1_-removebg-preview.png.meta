@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: c632fd679d337394488d3cf6daa4f300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2706240015161537171
+    second: HURUF_11zon__1_-removebg-preview_0
+  - first:
+      213: -947160298761818442
+    second: HURUF_11zon__1_-removebg-preview_2
+  - first:
+      213: -3974515919484258184
+    second: HURUF_11zon__1_-removebg-preview_3
+  - first:
+      213: -5968362665052145529
+    second: HURUF_11zon__1_-removebg-preview_4
+  - first:
+      213: 3781929385429794256
+    second: HURUF_11zon__1_-removebg-preview_6
+  - first:
+      213: 8043688175087593000
+    second: HURUF_11zon__1_-removebg-preview_7
+  - first:
+      213: -2704131332270554171
+    second: HURUF_11zon__1_-removebg-preview_8
+  - first:
+      213: -6220144100933832218
+    second: HURUF_11zon__1_-removebg-preview_9
+  - first:
+      213: 6270695160176532880
+    second: HURUF_11zon__1_-removebg-preview_11
+  - first:
+      213: 2200354500161894419
+    second: HURUF_11zon__1_-removebg-preview_12
+  - first:
+      213: 1748607068335674321
+    second: HURUF_11zon__1_-removebg-preview_13
+  - first:
+      213: 6795463342339110472
+    second: HURUF_11zon__1_-removebg-preview_14
+  - first:
+      213: 1179855878367653642
+    second: HURUF_11zon__1_-removebg-preview_15
+  - first:
+      213: 1391868197348275017
+    second: HURUF_11zon__1_-removebg-preview_16
+  - first:
+      213: 134599577308120960
+    second: HURUF_11zon__1_-removebg-preview_17
+  - first:
+      213: 4051130690847503147
+    second: HURUF_11zon__1_-removebg-preview_1
+  - first:
+      213: 3697156960044956790
+    second: HURUF_11zon__1_-removebg-preview_5
+  - first:
+      213: 5498612502210581496
+    second: HURUF_11zon__1_-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 192
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d49536b01817ad0800000000000000
+      internalID: -2706240015161537171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 199
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee2fef9b20bd2f0800000000000000
+      internalID: -947160298761818442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 199
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878710144dea7d8c0800000000000000
+      internalID: -3974515919484258184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 195
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fcd227cd1c2da0800000000000000
+      internalID: -5968362665052145529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd77201dbc1c7430800000000000000
+      internalID: 3781929385429794256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 171
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8262b1827cbe0af60800000000000000
+      internalID: 8043688175087593000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 173
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3820261eef87ad0800000000000000
+      internalID: -2704131332270554171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 119
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1f81c55eb9da9a0800000000000000
+      internalID: -6220144100933832218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d551d460cf50750800000000000000
+      internalID: 6270695160176532880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318f41a82ca398e10800000000000000
+      internalID: 2200354500161894419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d392e73ddc444810800000000000000
+      internalID: 1748607068335674321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bf4ce7e55e4e50800000000000000
+      internalID: 6795463342339110472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa2449ba0bf5010800000000000000
+      internalID: 1179855878367653642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 60
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437b1540c8e05310800000000000000
+      internalID: 1391868197348275017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 43
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874e583a913ed100800000000000000
+      internalID: 134599577308120960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 165
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f5a646e1883830800000000000000
+      internalID: 4051130690847503147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HURUF_11zon__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 155
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb752baa0fe4330800000000000000
+      internalID: 3697156960044956790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 74f22a68e893c36458c1b3d9e45b893d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1194461138789758618
+    second: fococlipping-20220116-184650_0
+  - first:
+      213: 8078734061747176294
+    second: fococlipping-20220116-184650_1
+  - first:
+      213: 2656404409590565662
+    second: fococlipping-20220116-184650_2
+  - first:
+      213: -2285420629918250601
+    second: fococlipping-20220116-184650_3
+  - first:
+      213: 8715169967299439266
+    second: fococlipping-20220116-184650_4
+  - first:
+      213: -3367172653465166403
+    second: fococlipping-20220116-184650_5
+  - first:
+      213: 3291352066055714566
+    second: fococlipping-20220116-184650_6
+  - first:
+      213: -9038270246578401634
+    second: fococlipping-20220116-184650_7
+  - first:
+      213: 3446260443031292925
+    second: fococlipping-20220116-184650_8
+  - first:
+      213: -17447121941818120
+    second: fococlipping-20220116-184650_9
+  - first:
+      213: -8727849257058015067
+    second: fococlipping-20220116-184650_10
+  - first:
+      213: -2868032838813648307
+    second: fococlipping-20220116-184650_11
+  - first:
+      213: -1372135434421150379
+    second: fococlipping-20220116-184650_12
+  - first:
+      213: 1353244983134829908
+    second: fococlipping-20220116-184650_13
+  - first:
+      213: 2207202260811940410
+    second: fococlipping-20220116-184650_14
+  - first:
+      213: -5890403963927892614
+    second: fococlipping-20220116-184650_15
+  - first:
+      213: -5675371569918762493
+    second: fococlipping-20220116-184650_16
+  - first:
+      213: 8873794326706439012
+    second: fococlipping-20220116-184650_17
+  - first:
+      213: 2622010858960904980
+    second: fococlipping-20220116-184650_18
+  - first:
+      213: 997211054258684610
+    second: fococlipping-20220116-184650_19
+  - first:
+      213: -2974860897571846290
+    second: fococlipping-20220116-184650_20
+  - first:
+      213: -2676531816283281376
+    second: fococlipping-20220116-184650_21
+  - first:
+      213: -1519069528785761214
+    second: fococlipping-20220116-184650_22
+  - first:
+      213: -1395354253989705640
+    second: fococlipping-20220116-184650_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698d6c3ceb6c6fe0800000000000000
+      internalID: -1194461138789758618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 317
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630a4183dd6d1070800000000000000
+      internalID: 8078734061747176294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 317
+        width: 111
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4d6d7cb17dd420800000000000000
+      internalID: 2656404409590565662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 316
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998f57bb0e8840e0800000000000000
+      internalID: -2285420629918250601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 316
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa290a09e082f870800000000000000
+      internalID: 8715169967299439266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 317
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9ccccf466541d0800000000000000
+      internalID: -3367172653465166403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 244
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607bff7044b3dad20800000000000000
+      internalID: 3291352066055714566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 244
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e46b8f81d919280800000000000000
+      internalID: -9038270246578401634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 233
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4c562d9393df20800000000000000
+      internalID: 3446260443031292925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 243
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41e4e5fe302cff0800000000000000
+      internalID: -17447121941818120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 243
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a866e3c75370e680800000000000000
+      internalID: -8727849257058015067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 233
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7b5e1453b238d0800000000000000
+      internalID: -2868032838813648307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 114
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd99f971235fce0800000000000000
+      internalID: -1372135434421150379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db4d17421b7c210800000000000000
+      internalID: 1353244983134829908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 113
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32822f03ce81ae10800000000000000
+      internalID: 2207202260811940410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 114
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d6682bdc4114ea0800000000000000
+      internalID: -5890403963927892614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 114
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30224a660a70d31b0800000000000000
+      internalID: -5675371569918762493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 114
+        width: 112
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c63dbcec062b70800000000000000
+      internalID: 8873794326706439012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 41
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e495fbf0436420800000000000000
+      internalID: 2622010858960904980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28e2f9b2ec6dd00800000000000000
+      internalID: 997211054258684610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c70076cb27b6d0800000000000000
+      internalID: -2974860897571846290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 40
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02867647e7c0bdad0800000000000000
+      internalID: -2676531816283281376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 40
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cca9bdf4e2beae0800000000000000
+      internalID: -1519069528785761214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fococlipping-20220116-184650_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 30
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580d1be2b4b2ace0800000000000000
+      internalID: -1395354253989705640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
